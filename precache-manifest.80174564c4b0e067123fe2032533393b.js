@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "850029ff7cb5045ec2ab3c71539a4d33",
+    "revision": "2d368050331ce1c0a5d853b5c8674bf6",
     "url": "/index.html"
   },
   {
-    "revision": "f566fd5973555ceef700",
+    "revision": "af0c3642eab1edebab44",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "acdb9c2e77060ea0953b",
-    "url": "/static/css/main.de99e1ef.chunk.css"
+    "revision": "9836a023840c7e901bdd",
+    "url": "/static/css/main.1f5d7f54.chunk.css"
   },
   {
     "revision": "51b758e3ffec5bd0e600",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.53b28f60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f566fd5973555ceef700",
-    "url": "/static/js/3.c1f44b16.chunk.js"
+    "revision": "af0c3642eab1edebab44",
+    "url": "/static/js/3.73deced7.chunk.js"
   },
   {
     "revision": "97b60ed083212a95523a",
     "url": "/static/js/4.77e31ec7.chunk.js"
   },
   {
-    "revision": "acdb9c2e77060ea0953b",
-    "url": "/static/js/main.b5f5b1ca.chunk.js"
+    "revision": "9836a023840c7e901bdd",
+    "url": "/static/js/main.8cee8183.chunk.js"
   },
   {
-    "revision": "cb261b1a1b6d111abf20",
-    "url": "/static/js/runtime-main.fbf0f690.js"
+    "revision": "84ee73b2cc3381d8e789",
+    "url": "/static/js/runtime-main.63fdefda.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/DAVLogo.34ebdaad.png"
   },
   {
-    "revision": "8b6af8e5e8324edfd77af8b3b35d7f9c",
-    "url": "/static/media/Poppins-Regular.8b6af8e5.ttf"
+    "revision": "ee6539921d713482b8ccd4d0d23961bb",
+    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
     "revision": "1aa95b80c84849594404a6e4c0df5264",
