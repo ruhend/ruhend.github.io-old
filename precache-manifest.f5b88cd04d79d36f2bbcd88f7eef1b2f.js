@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbae6dce83efec9b3d7f45946c40bd7b",
+    "revision": "80d5e8126c27065b7c86a98a3b896f4f",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "5ca2723d8df8e83767ea",
-    "url": "/static/css/main.1f5d7f54.chunk.css"
+    "revision": "e1f9412318a34210e019",
+    "url": "/static/css/main.079f4c80.chunk.css"
   },
   {
     "revision": "51b758e3ffec5bd0e600",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.77e31ec7.chunk.js"
   },
   {
-    "revision": "5ca2723d8df8e83767ea",
+    "revision": "e1f9412318a34210e019",
     "url": "/static/js/main.cfda8fbe.chunk.js"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/DAVLogo.34ebdaad.png"
   },
   {
-    "revision": "ee6539921d713482b8ccd4d0d23961bb",
-    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+    "revision": "f6ea751e936ade6edcd03a26b8153b4a",
+    "url": "/static/media/Poppins-Light.f6ea751e.ttf"
   },
   {
     "revision": "1aa95b80c84849594404a6e4c0df5264",
