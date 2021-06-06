@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.079f4c80.chunk.css",
-    "main.js": "/static/js/main.6e528aeb.chunk.js",
-    "main.js.map": "/static/js/main.6e528aeb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.63fdefda.js",
-    "runtime-main.js.map": "/static/js/runtime-main.63fdefda.js.map",
+    "main.css": "/static/css/main.92d23c46.chunk.css",
+    "main.js": "/static/js/main.68f4d34c.chunk.js",
+    "main.js.map": "/static/js/main.68f4d34c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35f52778.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35f52778.js.map",
     "static/js/2.53b28f60.chunk.js": "/static/js/2.53b28f60.chunk.js",
     "static/js/2.53b28f60.chunk.js.map": "/static/js/2.53b28f60.chunk.js.map",
-    "static/css/3.00373544.chunk.css": "/static/css/3.00373544.chunk.css",
+    "static/css/3.6a352120.chunk.css": "/static/css/3.6a352120.chunk.css",
     "static/js/3.73deced7.chunk.js": "/static/js/3.73deced7.chunk.js",
     "static/js/3.73deced7.chunk.js.map": "/static/js/3.73deced7.chunk.js.map",
-    "static/css/4.3e7d09e6.chunk.css": "/static/css/4.3e7d09e6.chunk.css",
+    "static/css/4.6e14a8dd.chunk.css": "/static/css/4.6e14a8dd.chunk.css",
     "static/js/4.77e31ec7.chunk.js": "/static/js/4.77e31ec7.chunk.js",
     "static/js/4.77e31ec7.chunk.js.map": "/static/js/4.77e31ec7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.35637d527365365ab816085b80e64ffc.js": "/precache-manifest.35637d527365365ab816085b80e64ffc.js",
+    "precache-manifest.7ba52022e8f1ee1f01c8980d792d9d69.js": "/precache-manifest.7ba52022e8f1ee1f01c8980d792d9d69.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
-    "static/css/4.3e7d09e6.chunk.css.map": "/static/css/4.3e7d09e6.chunk.css.map",
-    "static/css/main.079f4c80.chunk.css.map": "/static/css/main.079f4c80.chunk.css.map",
+    "static/css/3.6a352120.chunk.css.map": "/static/css/3.6a352120.chunk.css.map",
+    "static/css/4.6e14a8dd.chunk.css.map": "/static/css/4.6e14a8dd.chunk.css.map",
+    "static/css/main.92d23c46.chunk.css.map": "/static/css/main.92d23c46.chunk.css.map",
     "static/js/2.53b28f60.chunk.js.LICENSE.txt": "/static/js/2.53b28f60.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Poppins-Light.f6ea751e.ttf",
     "static/media/DAVLogo.png": "/static/media/DAVLogo.34ebdaad.png",
@@ -38,9 +38,9 @@
     "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.63fdefda.js",
+    "static/js/runtime-main.35f52778.js",
     "static/js/2.53b28f60.chunk.js",
-    "static/css/main.079f4c80.chunk.css",
-    "static/js/main.6e528aeb.chunk.js"
+    "static/css/main.92d23c46.chunk.css",
+    "static/js/main.68f4d34c.chunk.js"
   ]
 }
